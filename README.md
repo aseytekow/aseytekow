@@ -1,13 +1,11 @@
 # Hi there, I'm Akmuhammet 👋
 
-I'm a 20-year-old software developer with a passion for minimalism and modern app design.
+I'm a 21-year-old software developer with a passion for minimalism and modern app design.
 
 ## 🛠️ Top Skills
 
-- **Languages:** Java, Python, JavaScript, C++, Rust, Go
-- **Frameworks:** NextJS, Node.js
+- **Languages:** Go, C++, C#
 - **Database:** PostgreSQL
-- **Web:** Full-stack development (Frontend & Backend)
 - **Philosophy:** Minimalism, modern UX/UI
 
 ---
